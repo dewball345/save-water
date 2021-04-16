@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.5ab0c5d2.chunk.js": "/dewball345.github.io/save-water/static/js/0.5ab0c5d2.chunk.js",
+    "static/js/0.5ab0c5d2.chunk.js.map": "/dewball345.github.io/save-water/static/js/0.5ab0c5d2.chunk.js.map",
+    "static/js/1.e4553697.chunk.js": "/dewball345.github.io/save-water/static/js/1.e4553697.chunk.js",
+    "static/js/1.e4553697.chunk.js.map": "/dewball345.github.io/save-water/static/js/1.e4553697.chunk.js.map",
+    "main.css": "/dewball345.github.io/save-water/static/css/main.1022c5e4.chunk.css",
+    "main.js": "/dewball345.github.io/save-water/static/js/main.8f073796.chunk.js",
+    "main.js.map": "/dewball345.github.io/save-water/static/js/main.8f073796.chunk.js.map",
+    "runtime-main.js": "/dewball345.github.io/save-water/static/js/runtime-main.a1eaaec4.js",
+    "runtime-main.js.map": "/dewball345.github.io/save-water/static/js/runtime-main.a1eaaec4.js.map",
+    "static/js/4.3cc41f3d.chunk.js": "/dewball345.github.io/save-water/static/js/4.3cc41f3d.chunk.js",
+    "static/js/4.3cc41f3d.chunk.js.map": "/dewball345.github.io/save-water/static/js/4.3cc41f3d.chunk.js.map",
+    "static/js/5.00643548.chunk.js": "/dewball345.github.io/save-water/static/js/5.00643548.chunk.js",
+    "static/js/5.00643548.chunk.js.map": "/dewball345.github.io/save-water/static/js/5.00643548.chunk.js.map",
+    "static/js/6.a57e1e74.chunk.js": "/dewball345.github.io/save-water/static/js/6.a57e1e74.chunk.js",
+    "static/js/6.a57e1e74.chunk.js.map": "/dewball345.github.io/save-water/static/js/6.a57e1e74.chunk.js.map",
+    "static/js/7.f63ae76f.chunk.js": "/dewball345.github.io/save-water/static/js/7.f63ae76f.chunk.js",
+    "static/js/7.f63ae76f.chunk.js.map": "/dewball345.github.io/save-water/static/js/7.f63ae76f.chunk.js.map",
+    "static/js/8.43e8704c.chunk.js": "/dewball345.github.io/save-water/static/js/8.43e8704c.chunk.js",
+    "static/js/8.43e8704c.chunk.js.map": "/dewball345.github.io/save-water/static/js/8.43e8704c.chunk.js.map",
+    "static/js/9.aa58837e.chunk.js": "/dewball345.github.io/save-water/static/js/9.aa58837e.chunk.js",
+    "static/js/9.aa58837e.chunk.js.map": "/dewball345.github.io/save-water/static/js/9.aa58837e.chunk.js.map",
+    "static/js/10.b67d2dbb.chunk.js": "/dewball345.github.io/save-water/static/js/10.b67d2dbb.chunk.js",
+    "static/js/10.b67d2dbb.chunk.js.map": "/dewball345.github.io/save-water/static/js/10.b67d2dbb.chunk.js.map",
+    "static/js/11.b8a03474.chunk.js": "/dewball345.github.io/save-water/static/js/11.b8a03474.chunk.js",
+    "static/js/11.b8a03474.chunk.js.map": "/dewball345.github.io/save-water/static/js/11.b8a03474.chunk.js.map",
+    "index.html": "/dewball345.github.io/save-water/index.html",
+    "service-worker.js": "/dewball345.github.io/save-water/service-worker.js",
+    "service-worker.js.map": "/dewball345.github.io/save-water/service-worker.js.map",
+    "static/css/main.1022c5e4.chunk.css.map": "/dewball345.github.io/save-water/static/css/main.1022c5e4.chunk.css.map",
+    "static/js/0.5ab0c5d2.chunk.js.LICENSE.txt": "/dewball345.github.io/save-water/static/js/0.5ab0c5d2.chunk.js.LICENSE.txt",
+    "static/js/1.e4553697.chunk.js.LICENSE.txt": "/dewball345.github.io/save-water/static/js/1.e4553697.chunk.js.LICENSE.txt",
+    "static/js/4.3cc41f3d.chunk.js.LICENSE.txt": "/dewball345.github.io/save-water/static/js/4.3cc41f3d.chunk.js.LICENSE.txt",
+    "static/media/custom.scss": "/dewball345.github.io/save-water/static/media/LeagueSpartan-VF.de0ba3fe.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1eaaec4.js",
+    "static/js/4.3cc41f3d.chunk.js",
+    "static/css/main.1022c5e4.chunk.css",
+    "static/js/main.8f073796.chunk.js"
+  ]
+}
