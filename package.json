@@ -6,9 +6,20 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.8.1",
+    "bootstrap": "^4.6.0",
+    "crypto-js": "^4.0.0",
+    "firebase": "^8.2.10",
+    "idb": "^3.0.2",
+    "idb-keyval": "^5.0.4",
+    "jquery": "^3.6.0",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
+    "react-select": "^4.2.1",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
@@ -34,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.6.0"
   }
 }

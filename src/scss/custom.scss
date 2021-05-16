@@ -1,0 +1,49 @@
+
+// $mcolor: #013af5 ;
+$mcolor: #1149ff ;
+// $primary:  #4f75f3;
+$primary:  mix(#383838, $mcolor, 70%);
+$secondary: mix($primary, #fff, 60%);
+$success: #09794c;
+$danger: #a30e7e; 
+$primary-light: mix($primary, #fff, 60%);
+// $primary: #005073;
+@debug primary-light;
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "danger": $danger
+);
+
+
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('../assets/WOFF2/LeagueSpartan-VF.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../assets/WOFF/LeagueSpartan-VF.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../assets/TTF/LeagueSpartan-VF.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+*{
+  font-family:'MyWebFont', sans-serif;
+}
+
+
+
+.pseudo-body{
+  background-color:#020c44
+  // background-color:#d0d7ff
+  // background-color: #71C7EC;
+}
+
+.bg-primary-light{
+  background-color: $primary-light
+}
+
+.border-primary-light{
+  border: 10px solid mix($primary, #fff, 60%);
+}
+
+
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;700;800&display=swap');
